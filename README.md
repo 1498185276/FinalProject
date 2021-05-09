@@ -12,4 +12,4 @@ Individual project created by Mingjing Huang at Processing 2021.
 
 ![MoneyCatchingGame](https://github.com/1498185276/FinalProject/blob/main/images/EndScreen.JPG?raw=true)
 
-Source code for project [here](https://github.com/1498185276/FinalProject/tree/main/src). A Windows executable can be downloaded [here]().
+Source code for project [here](https://github.com/1498185276/FinalProject/tree/main/src). A Windows executable can be downloaded [here](https://github.com/1498185276/FinalProject/tree/main/src/application.windows64).
