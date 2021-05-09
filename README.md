@@ -1,16 +1,8 @@
-# Street Crossing Game
+# Money Catching Game
 
-An OOP Street Crossing Game where the user controls the movement of the figure to cross the street with moving cars to safely arrive at the other end of the street.
+An OOP Money Carching Game where the user controls the movement of the figure through mouse to avoid collision with cars and motorcycles while collecing as many money falling from the sky as possible.
 
 Individual project created by Mingjing Huang at Processing 2021.
-
-![StreetCrossingGame](https://github.com/1498185276/FinalProject/blob/main/images/Start.jpg?raw=true)
-
-![StreetCrossingGame](https://github.com/1498185276/FinalProject/blob/main/images/Game.jpg?raw=true)
-
-![StreetCrossingGame](https://github.com/1498185276/FinalProject/blob/main/images/Gameover.jpg?raw=true)
-
-![StreetCrossingGame](https://github.com/1498185276/FinalProject/blob/main/images/Win.jpg?raw=true)
 
 ![StreetCrossingGame](https://github.com/1498185276/FinalProject/blob/main/images/Street%20Crossing%20Game%20UML.jpg?raw=true)
 
