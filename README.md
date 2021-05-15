@@ -6,7 +6,6 @@ Individual project created by Mingjing Huang at Processing 2021.
 
 ![MoneyCatchingGame](https://github.com/1498185276/FinalProject/blob/main/images/Money%20Catching%20Game%20UML.png?raw=true)
 
-
 ![MoneyCatchingGame](https://github.com/1498185276/FinalProject/blob/main/images/StartScreen.JPG?raw=true)
 
 ![MoneyCatchingGame](https://github.com/1498185276/FinalProject/blob/main/images/Gaming.JPG?raw=true)
