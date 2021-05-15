@@ -105,7 +105,8 @@ void startScreen(){
   background(255);
   textAlign(CENTER);
   fill(0);
-  text("Welcome to Money Catching Game!",500,400);
+  textSize(15);
+  text("Welcome to Money Catching Game! Use the mouse to control the money catcher!",500,400);
   text("Beware of the crossing cars and motorcycles...They WILL KILL YOU!",500,500);
   text("In the meantime, go catch as many money falling from the sky as possible before you die!",500,600);
   text("Click to Continue...", 500, 650);
